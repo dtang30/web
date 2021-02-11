@@ -1,0 +1,57 @@
+html
+{
+    background-color: lightcyan
+}
+
+h1
+{
+    color:Pink;
+    font-size: 90px;
+    font-family:cursive;
+
+}
+
+.TOC1
+{
+    color:hotpink;
+    font-size: 18px;
+    font-family:cursive;
+    font-style:italic;
+}
+
+.img
+{
+    border:16px;
+    border-style:ridge;
+    border-color:pink;
+}
+
+p
+{
+    color:violet;
+    font-size: 16px;
+    font-family:cursive;
+}
+
+h2
+{
+    color:blueviolet;
+    font-size: 30px;
+    font-family:cursive;
+    
+}
+
+a
+{
+    color:blue;
+    font-family:cursive;
+}
+
+h3
+{
+    color:blueviolet;
+    font-size: 18px;
+    font-family:cursive
+    
+}
+    
